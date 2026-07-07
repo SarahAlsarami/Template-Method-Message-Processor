@@ -1,0 +1,14 @@
+/Users/sarahalsarami/TamplateMethod/bin/Debug/net8.0/TamplateMethod
+/Users/sarahalsarami/TamplateMethod/bin/Debug/net8.0/TamplateMethod.deps.json
+/Users/sarahalsarami/TamplateMethod/bin/Debug/net8.0/TamplateMethod.runtimeconfig.json
+/Users/sarahalsarami/TamplateMethod/bin/Debug/net8.0/TamplateMethod.dll
+/Users/sarahalsarami/TamplateMethod/bin/Debug/net8.0/TamplateMethod.pdb
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.AssemblyInfoInputs.cache
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.AssemblyInfo.cs
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.csproj.CoreCompileInputs.cache
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.dll
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/refint/TamplateMethod.dll
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.pdb
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/TamplateMethod.genruntimeconfig.cache
+/Users/sarahalsarami/TamplateMethod/obj/Debug/net8.0/ref/TamplateMethod.dll
